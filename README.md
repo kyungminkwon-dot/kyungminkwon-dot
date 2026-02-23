@@ -10,7 +10,7 @@
 | Data Platform | Databricks, Redash |
 | Data Transformation | dbt |
 | Workflow | Airflow |
-| Visualization | Databricks, Streamlit, Tableau | 
+| Visualization | Databricks, Streamlit, Tableau, Redash | 
 | Collaboration | Git, Notion, Slack |
 
 ---
